@@ -1,0 +1,2 @@
+# oppoDeveloperOptions
+繞過OPPO的開發人員選項驗證碼，直接進入開發人員選項
