@@ -14,7 +14,7 @@ Light Mode made of Morandi Colors, Dark Mode is also beautiful!<br>
 <br>
 
 ### 淺色模式 Light Mode
-<img src="https://github.com/xinghe0921/oppoDeveloperOptions/blob/main/Readme_src/Screenshot_2023-06-26-22-38-59-20.png?raw=true" width="270" height="540"></img>
+<img src="https://github.com/xinghe0921/oppoDeveloperOptions/blob/main/Readme_src/Screenshot_2023-06-26-22-49-16-86.png?raw=true" width="270" height="540"></img>
 <br>
 
 ### 深色模式 Dark Mode
