@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#CAD9E7</color>
+    <color name="purple_500">#56638A</color>
+    <color name="purple_700">#0F1144</color>
+    <color name="teal_200">#56638A</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#EDCC86</color>
+    <color name="text">#6882a6</color>
+    <color name="background1">#F1F1F1</color>
+    <color name="background2">#FFFFFF</color>
+    <color name="background3">#56638A</color>
+    <color name="background4">#CAD9E7</color>
+    <color name="fingerprint_dialog">#000000</color>
+</resources>
